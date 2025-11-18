@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+
+# Dataset 
+/data/
+/kaggle/
+
+# Saved models
+*.keras
+*.h5
+
+# File LaTeX 
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
